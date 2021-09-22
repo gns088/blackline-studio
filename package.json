@@ -1,8 +1,9 @@
 {
   "name": "now-ui-kit-pro-react",
   "version": "1.5.0",
-  "private": true,
+  "homepage": "https://gns088.github.io/blackline-studio",
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "moment": "2.29.1",
     "node-sass": "6.0.0",
     "nouislider": "15.1.0",
